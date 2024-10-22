@@ -1,3 +1,4 @@
+// to print the even lines in the file
 #include<stdio.h>
 int main(int argc,char *argv[]){
     char ch;

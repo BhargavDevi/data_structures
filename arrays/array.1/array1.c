@@ -1,4 +1,4 @@
-// this is to print the largest element of an array
+// this is to print the largest element of an array using command line argument 
 #include <stdio.h>
 int array(int arr[], int size)
 {

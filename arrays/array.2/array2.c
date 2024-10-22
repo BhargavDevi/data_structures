@@ -1,4 +1,4 @@
-// finding the second largest element of the array
+// finding the second largest element of the array using command line argument 
 #include <stdio.h>
 int seclarg(int arr[], int size)
 {
