@@ -19,7 +19,7 @@ int arra(int arr[], int n)
 }
 int main()
 {
-    int arr[] = {3, 4, 6, 7};
+    int arr[] = {3, 4, 6, 7,2};
     int n = sizeof(arr) / sizeof(arr[0]);
     int c = arra(arr, n);
     if (c == 0)
